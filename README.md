@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/cedricgisler/CedricITEO/_apis/build/status/lCedl.pipelines-java?branchName=master)](https://dev.azure.com/cedricgisler/CedricITEO/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
